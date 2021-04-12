@@ -1,2 +1,2 @@
-# Begining.-R-Pac
+# Begining.R-Pac
 First course
